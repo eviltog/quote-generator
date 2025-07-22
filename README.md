@@ -1,6 +1,6 @@
 # Quote Generator (quote-generator)
 
-A Quasar Project
+It is A Quasar Project
 
 ## Install the dependencies
 
